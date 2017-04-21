@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: BioSnap
-description: Read your vitals in realtime
+description: Making medicine mobile.
+markdown: kramdown
+kramdown:
+  extensions: "footnotes"
