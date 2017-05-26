@@ -2,11 +2,9 @@
 
 This is our story! We saw that... and decided to...
 
-## Stats
+## Our Technology
 
-- Heart disease is the #1 killer in the United States
-- Doctors have told us that they want this
-- For Medicaid-covered and uninsured U.S. hospital stays in 2012, six of the top ten diagnoses were ambulatory care sensitive conditions[^1]
+Our device uses 5 sensors to constantly monitor vitals and detect medical emergencies. It can detect falls, measure respiratory rate, changes in perspiration, and skin temperature. It also uses electrocardiograph technology to detect changes in heart rhythm and heart abnormalities. With these sensor and machine learning algorithms, it will detect patterns and recognize emergencies for people with certain chronic health conditions. Alerts can be customized to be sent to doctors, emergency services, family, or friends. With this technology, users can be independent and feel secure.[^1]
 
 [^1]:Check out [this](https://www.hcup-us.ahrq.gov/reports/statbriefs/sb182-Medicaid-Uninsured-Hospitalizations-2012.jsp) report.
 
